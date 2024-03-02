@@ -1,0 +1,44 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.container {
+    height: 80vh;
+    border: solid 2px black;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: lightgray;
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px;
+}
+.container hr {
+    margin-left: 10px;
+    margin-right: 10px;
+    box-sizing: content-box;
+}
+input {
+    margin-top: 10px;
+}
+.container h3 {
+    margin-top: 15px;
+}
+.info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.table td {
+    border: solid 1px black;
+    background-color: antiquewhite;
+    padding: 0.5rem;
+    text-align: center;
+}
+.table-info {
+    box-sizing: content-box;
+}
